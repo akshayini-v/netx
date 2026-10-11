@@ -1,0 +1,5 @@
+# NetX Secure Cryptographic File Transfer System - Python dependencies
+# Install with: pip install -r requirements.txt
+Flask>=3.0,<4.0
+Flask-Cors>=4.0,<6.0
+cryptography>=42.0
